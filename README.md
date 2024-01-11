@@ -31,3 +31,10 @@ npm run dev
 ```
 
 Abrir [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
+
+![image](https://github.com/PedroLimaReis/test-candidates-frontend/assets/38461535/d6210b2e-39df-4717-baed-cff86c71c00f)
+
+Observação: lembrando que esse é um projeto fullstack, portanto é necessario estar com o backend rodando na sua maquina.
+
+Para adicionar novas habilidades basta clicar no botão "+".
+
